@@ -44,14 +44,14 @@ The story is divided into 30 chapters (V1.0.0), each chronicling a different par
 - To the quiet power of turning pain into creation.
 
 A future sequel is planned:  
-> **A Love Unspoken 2 – Coming Soon**  
+> **A Love Unspoken 2 – Coming 2026**  
 > *Signals in Silence. A Glimpse, Then Gone. The Coach’s Question...*
 
 ---
 
-## 🎮 Interactive Version (Coming Soon)
+## 🎮 Interactive Version (Coming 12/05/2025) PC and Android
 
-An experimental mobile visual novel is in development, where players will explore Leo’s journey through AI-generated visuals, atmospheric music, and dynamic dialogue choices.
+An experimental mobile visual novel is in development, where players will explore Leo’s journey through AI-generated images.
 
 Stay tuned at [NeoCircuit-Studios](https://github.com/NeoCircuit-Studios) for updates.
 
