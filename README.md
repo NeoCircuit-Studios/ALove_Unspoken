@@ -6,6 +6,13 @@
 
 ---
 
+## License
+This project is licensed under the **NeoCircuit-Studios Personal Use License**.  
+You may use it for personal purposes only. Any redistribution, modification, or public/educational use must be approved by NeoCircuit-Studios.  
+See the [LICENSE](LICENSE) file for full terms.
+
+---
+
 ## 📘 About the Story
 
 **A Love Unspoken** is a narrative inspired by true events, centered on Leo — a teenager in Belgium — who forms a silent, heartfelt connection with a Ukrainian boy named Luca amidst the backdrop of war, language barriers, and emotional growth. Told through poetic prose and structured chapters, the story follows Leo’s inner world as he navigates feelings that go beyond friendship.
