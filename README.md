@@ -18,7 +18,6 @@ See the [LICENSE](LICENSE) file for full terms.
 **A Love Unspoken** is a narrative inspired by true events, centered on Leo — a teenager in Belgium — who forms a silent, heartfelt connection with a Ukrainian boy named Luca amidst the backdrop of war, language barriers, and emotional growth. Told through poetic prose and structured chapters, the story follows Leo’s inner world as he navigates feelings that go beyond friendship.
 
 This project was created as both a literary release and the foundation for a future mobile visual novel.
-
 ---
 
 ## ⚠️ Disclaimer
@@ -56,11 +55,11 @@ A future sequel is planned:
 
 ---
 
-## 🎮 Interactive Version (Coming 12/05/2025) PC and Android
+## 🎮 Interactive Version Android (and PC comming later)
 
-An experimental mobile visual novel is in development, where players will explore Leo’s journey through AI-generated images.
+An experimental mobile visual novel is in development, where players will explore Leo’s journey through AI-generated images and voice.
 
-Stay tuned at [NeoCircuit-Studios](https://github.com/NeoCircuit-Studios) for updates.
+You can download the Android Version from [Releases](https://github.com/NeoCircuit-Studios/ALove_Unspoken/releases/tag/beta)
 
 ---
 
