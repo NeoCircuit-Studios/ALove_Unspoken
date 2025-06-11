@@ -59,7 +59,7 @@ A future sequel is planned:
 
 An experimental mobile visual novel is in development, where players will explore Leo’s journey through AI-generated images and voice.
 
-You can download the Android Version from [Releases](https://github.com/NeoCircuit-Studios/ALove_Unspoken/releases/tag/beta)
+You can download the Android Version from [Releases](https://github.com/NeoCircuit-Studios/ALove_Unspoken/releases/tag/Mobile)
 
 ---
 
