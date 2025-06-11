@@ -13,7 +13,7 @@ See the [LICENSE](LICENSE) file for full terms.
 
 ---
 
-## 📘 About the Story
+## About the Story
 
 **A Love Unspoken** is a narrative inspired by true events, centered on Leo — a teenager in Belgium — who forms a silent, heartfelt connection with a Ukrainian boy named Luca amidst the backdrop of war, language barriers, and emotional growth. Told through poetic prose and structured chapters, the story follows Leo’s inner world as he navigates feelings that go beyond friendship.
 
@@ -30,7 +30,7 @@ By reading this story, you agree to our [Terms of Service](https://github.com/Ne
 
 ---
 
-## 🌟 Key Themes
+## Key Themes
 
 - Emotional resilience and vulnerability  
 - Cultural and linguistic bridges (Dutch, Russian, Ukrainian)  
@@ -41,7 +41,7 @@ By reading this story, you agree to our [Terms of Service](https://github.com/Ne
 
 ---
 
-## 📚 Story Structure
+## Story Structure
 
 The story is divided into 30 chapters (V1.0.1), each chronicling a different part of Leo’s journey:
 - From a brief glance on a bus...
@@ -55,7 +55,7 @@ A future sequel is planned:
 
 ---
 
-## 🎮 Interactive Version Android (and PC comming later)
+## Interactive Version Android (and PC comming later)
 
 An experimental mobile visual novel is in development, where players will explore Leo’s journey through AI-generated images and voice.
 
@@ -63,7 +63,7 @@ You can download the Android Version from [Releases](https://github.com/NeoCircu
 
 ---
 
-## 💌 License & Legal
+## License & Legal
 
 © 2025 NeoCircuit-Studios  
 All rights reserved.
@@ -75,13 +75,13 @@ For detailed usage rights, see:
 
 ---
 
-## 🙏 Special Thanks
+## Special Thanks
 
 To everyone who has ever carried feelings they couldn't say out loud — this story is for you.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Questions, feedback, or support:  
 📧 [neocircuit.studios@gmail.com](mailto:neocircuit.studios@gmail.com)
