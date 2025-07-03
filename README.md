@@ -24,7 +24,7 @@ This project was created as a literary release.
 
 > This story is based on real experiences. However, names, locations, and some specific details have been changed to protect the privacy of those involved.
 
-By reading this story, you agree to our [Terms of Service]([https://github.com/NeoCircuit-Studios/ALove_Unspoken/releases/tag/Mobile](https://github.com/NeoCircuit-Studios/ALove_Unspoken/blob/main/Terms%20Of%20Service%20EN)).
+By reading this story, you agree to our [Terms of Service]([https://github.com/NeoCircuit-Studios/ALove_Unspoken/blob/main/Terms%20Of%20Service%20EN]).
 
 **Do not share, repost, or sell this story.**
 
